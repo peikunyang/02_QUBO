@@ -1,6 +1,6 @@
-## Author
+## This repository provides a QUBO-based framework for generating ligand binding poses within protein pockets to support structure-based virtual screening.
 
-This repository provides a QUBO-based framework for generating ligand binding poses within protein pockets to support structure-based virtual screening.
+## Author
 
 > **Reference:**  
 > **Pei-Kun Yang**  
