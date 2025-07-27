@@ -19,9 +19,6 @@ Make sure the following packages are installed before running the scripts:
 ```bash
 pip install torch numpy autogrid4 autodock4
 ```
-
-The `math` module is part of the Python standard library and does not require installation.
-
 ## Summary
 
 The pipeline first selects energetically favorable grid points using a QUBO solver, then performs rigid-body alignment based on a three-atom geometric contour of the ligand. This modular setup allows easy tuning of matching thresholds and grid parameters, enabling control over the trade-off between accuracy and computational cost.
