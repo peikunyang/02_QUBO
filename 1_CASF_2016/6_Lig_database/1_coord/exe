@@ -1,0 +1,3 @@
+rm coord/* coord_-H/*
+python3 lig_grid.py
+

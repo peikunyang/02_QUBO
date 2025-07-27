@@ -1,0 +1,3 @@
+rm -r crd/* grid/* pdbqt/*
+python3 sel.py
+

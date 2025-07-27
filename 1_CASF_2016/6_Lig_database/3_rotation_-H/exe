@@ -1,0 +1,3 @@
+rm crd_-H/*
+python3 rot.py
+

@@ -1,0 +1,12 @@
+autodock_parameter_version 4.2
+outlev ADT
+ligand_types C HD N OA
+fld 1a30_rec.maps.fld
+map 1a30_rec.C.map
+map 1a30_rec.HD.map
+map 1a30_rec.N.map
+map 1a30_rec.OA.map
+elecmap 1a30_rec.e.map
+dsolvmap 1a30_rec.d.map
+move 1a30_ligand.pdbqt
+epdb

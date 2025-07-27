@@ -1,0 +1,4 @@
+rm -r crd grid
+cp -r ../../../1_CASF_2016/3_less_?/2_sel_lig_CASF/crd .
+cp -r ../../../1_CASF_2016/3_less_?/2_sel_lig_CASF/grid .
+

@@ -1,0 +1,15 @@
+npts 60 60 60                        # num.grid points in xyz
+gridfld 1a30_rec.maps.fld            # grid_data_file
+spacing 0.375                        # spacing(A)
+receptor_types  C SA NA OA  A  N HD
+ligand_types  C HD OA  N
+receptor 1a30_protein.pdbqt          # macromolecule
+gridcenter 0 0 0                     # xyz-coordinates or auto
+smooth 0.5                           # store minimum energy w/in rad(A)
+map 1a30_rec.C.map                   # atom-specific affinity map
+map 1a30_rec.HD.map                   # atom-specific affinity map
+map 1a30_rec.OA.map                   # atom-specific affinity map
+map 1a30_rec.N.map                   # atom-specific affinity map
+elecmap 1a30_rec.e.map               # electrostatic potential map
+dsolvmap 1a30_rec.d.map              # desolvation potential map
+dielectric -0.1465                   # <0, AD4 distance-dep.diel;>0, constant

@@ -1,0 +1,4 @@
+python3 gen_exe.py
+chmod u+x exe_exe
+chmod u+x exe*
+

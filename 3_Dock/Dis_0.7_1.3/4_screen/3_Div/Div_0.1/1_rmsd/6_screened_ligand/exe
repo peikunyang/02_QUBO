@@ -1,0 +1,3 @@
+rm -r ligand/*
+python3 ligand.py
+

@@ -1,0 +1,3 @@
+rm grid/*
+python3 grid.py
+

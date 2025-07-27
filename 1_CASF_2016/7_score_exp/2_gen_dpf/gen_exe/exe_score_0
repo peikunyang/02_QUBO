@@ -1,0 +1,845 @@
+cd /home/kun/job/02_QUBO/2025_06_05/4_Ana/1_dock/1_map_score/1_prepare_gpf/map/1a30
+./exe
+grep "Ligand PDBQT file =" 1a30.dlg > num
+grep "epdb: USER    Estimated Free Energy of Binding    =" 1a30.dlg > score
+rm 1a30.dlg
+cd /home/kun/job/02_QUBO/2025_06_05/4_Ana/1_dock/1_map_score/1_prepare_gpf/map/1bcu
+./exe
+grep "Ligand PDBQT file =" 1bcu.dlg > num
+grep "epdb: USER    Estimated Free Energy of Binding    =" 1bcu.dlg > score
+rm 1bcu.dlg
+cd /home/kun/job/02_QUBO/2025_06_05/4_Ana/1_dock/1_map_score/1_prepare_gpf/map/1c5z
+./exe
+grep "Ligand PDBQT file =" 1c5z.dlg > num
+grep "epdb: USER    Estimated Free Energy of Binding    =" 1c5z.dlg > score
+rm 1c5z.dlg
+cd /home/kun/job/02_QUBO/2025_06_05/4_Ana/1_dock/1_map_score/1_prepare_gpf/map/1gpn
+./exe
+grep "Ligand PDBQT file =" 1gpn.dlg > num
+grep "epdb: USER    Estimated Free Energy of Binding    =" 1gpn.dlg > score
+rm 1gpn.dlg
+cd /home/kun/job/02_QUBO/2025_06_05/4_Ana/1_dock/1_map_score/1_prepare_gpf/map/1nc1
+./exe
+grep "Ligand PDBQT file =" 1nc1.dlg > num
+grep "epdb: USER    Estimated Free Energy of Binding    =" 1nc1.dlg > score
+rm 1nc1.dlg
+cd /home/kun/job/02_QUBO/2025_06_05/4_Ana/1_dock/1_map_score/1_prepare_gpf/map/1nc3
+./exe
+grep "Ligand PDBQT file =" 1nc3.dlg > num
+grep "epdb: USER    Estimated Free Energy of Binding    =" 1nc3.dlg > score
+rm 1nc3.dlg
+cd /home/kun/job/02_QUBO/2025_06_05/4_Ana/1_dock/1_map_score/1_prepare_gpf/map/1nvq
+./exe
+grep "Ligand PDBQT file =" 1nvq.dlg > num
+grep "epdb: USER    Estimated Free Energy of Binding    =" 1nvq.dlg > score
+rm 1nvq.dlg
+cd /home/kun/job/02_QUBO/2025_06_05/4_Ana/1_dock/1_map_score/1_prepare_gpf/map/1o0h
+./exe
+grep "Ligand PDBQT file =" 1o0h.dlg > num
+grep "epdb: USER    Estimated Free Energy of Binding    =" 1o0h.dlg > score
+rm 1o0h.dlg
+cd /home/kun/job/02_QUBO/2025_06_05/4_Ana/1_dock/1_map_score/1_prepare_gpf/map/1o5b
+./exe
+grep "Ligand PDBQT file =" 1o5b.dlg > num
+grep "epdb: USER    Estimated Free Energy of Binding    =" 1o5b.dlg > score
+rm 1o5b.dlg
+cd /home/kun/job/02_QUBO/2025_06_05/4_Ana/1_dock/1_map_score/1_prepare_gpf/map/1p1n
+./exe
+grep "Ligand PDBQT file =" 1p1n.dlg > num
+grep "epdb: USER    Estimated Free Energy of Binding    =" 1p1n.dlg > score
+rm 1p1n.dlg
+cd /home/kun/job/02_QUBO/2025_06_05/4_Ana/1_dock/1_map_score/1_prepare_gpf/map/1p1q
+./exe
+grep "Ligand PDBQT file =" 1p1q.dlg > num
+grep "epdb: USER    Estimated Free Energy of Binding    =" 1p1q.dlg > score
+rm 1p1q.dlg
+cd /home/kun/job/02_QUBO/2025_06_05/4_Ana/1_dock/1_map_score/1_prepare_gpf/map/1ps3
+./exe
+grep "Ligand PDBQT file =" 1ps3.dlg > num
+grep "epdb: USER    Estimated Free Energy of Binding    =" 1ps3.dlg > score
+rm 1ps3.dlg
+cd /home/kun/job/02_QUBO/2025_06_05/4_Ana/1_dock/1_map_score/1_prepare_gpf/map/1pxn
+./exe
+grep "Ligand PDBQT file =" 1pxn.dlg > num
+grep "epdb: USER    Estimated Free Energy of Binding    =" 1pxn.dlg > score
+rm 1pxn.dlg
+cd /home/kun/job/02_QUBO/2025_06_05/4_Ana/1_dock/1_map_score/1_prepare_gpf/map/1q8t
+./exe
+grep "Ligand PDBQT file =" 1q8t.dlg > num
+grep "epdb: USER    Estimated Free Energy of Binding    =" 1q8t.dlg > score
+rm 1q8t.dlg
+cd /home/kun/job/02_QUBO/2025_06_05/4_Ana/1_dock/1_map_score/1_prepare_gpf/map/1qf1
+./exe
+grep "Ligand PDBQT file =" 1qf1.dlg > num
+grep "epdb: USER    Estimated Free Energy of Binding    =" 1qf1.dlg > score
+rm 1qf1.dlg
+cd /home/kun/job/02_QUBO/2025_06_05/4_Ana/1_dock/1_map_score/1_prepare_gpf/map/1qkt
+./exe
+grep "Ligand PDBQT file =" 1qkt.dlg > num
+grep "epdb: USER    Estimated Free Energy of Binding    =" 1qkt.dlg > score
+rm 1qkt.dlg
+cd /home/kun/job/02_QUBO/2025_06_05/4_Ana/1_dock/1_map_score/1_prepare_gpf/map/1r5y
+./exe
+grep "Ligand PDBQT file =" 1r5y.dlg > num
+grep "epdb: USER    Estimated Free Energy of Binding    =" 1r5y.dlg > score
+rm 1r5y.dlg
+cd /home/kun/job/02_QUBO/2025_06_05/4_Ana/1_dock/1_map_score/1_prepare_gpf/map/1s38
+./exe
+grep "Ligand PDBQT file =" 1s38.dlg > num
+grep "epdb: USER    Estimated Free Energy of Binding    =" 1s38.dlg > score
+rm 1s38.dlg
+cd /home/kun/job/02_QUBO/2025_06_05/4_Ana/1_dock/1_map_score/1_prepare_gpf/map/1syi
+./exe
+grep "Ligand PDBQT file =" 1syi.dlg > num
+grep "epdb: USER    Estimated Free Energy of Binding    =" 1syi.dlg > score
+rm 1syi.dlg
+cd /home/kun/job/02_QUBO/2025_06_05/4_Ana/1_dock/1_map_score/1_prepare_gpf/map/1uto
+./exe
+grep "Ligand PDBQT file =" 1uto.dlg > num
+grep "epdb: USER    Estimated Free Energy of Binding    =" 1uto.dlg > score
+rm 1uto.dlg
+cd /home/kun/job/02_QUBO/2025_06_05/4_Ana/1_dock/1_map_score/1_prepare_gpf/map/1vso
+./exe
+grep "Ligand PDBQT file =" 1vso.dlg > num
+grep "epdb: USER    Estimated Free Energy of Binding    =" 1vso.dlg > score
+rm 1vso.dlg
+cd /home/kun/job/02_QUBO/2025_06_05/4_Ana/1_dock/1_map_score/1_prepare_gpf/map/1w4o
+./exe
+grep "Ligand PDBQT file =" 1w4o.dlg > num
+grep "epdb: USER    Estimated Free Energy of Binding    =" 1w4o.dlg > score
+rm 1w4o.dlg
+cd /home/kun/job/02_QUBO/2025_06_05/4_Ana/1_dock/1_map_score/1_prepare_gpf/map/1y6r
+./exe
+grep "Ligand PDBQT file =" 1y6r.dlg > num
+grep "epdb: USER    Estimated Free Energy of Binding    =" 1y6r.dlg > score
+rm 1y6r.dlg
+cd /home/kun/job/02_QUBO/2025_06_05/4_Ana/1_dock/1_map_score/1_prepare_gpf/map/1yc1
+./exe
+grep "Ligand PDBQT file =" 1yc1.dlg > num
+grep "epdb: USER    Estimated Free Energy of Binding    =" 1yc1.dlg > score
+rm 1yc1.dlg
+cd /home/kun/job/02_QUBO/2025_06_05/4_Ana/1_dock/1_map_score/1_prepare_gpf/map/1ydr
+./exe
+grep "Ligand PDBQT file =" 1ydr.dlg > num
+grep "epdb: USER    Estimated Free Energy of Binding    =" 1ydr.dlg > score
+rm 1ydr.dlg
+cd /home/kun/job/02_QUBO/2025_06_05/4_Ana/1_dock/1_map_score/1_prepare_gpf/map/1z95
+./exe
+grep "Ligand PDBQT file =" 1z95.dlg > num
+grep "epdb: USER    Estimated Free Energy of Binding    =" 1z95.dlg > score
+rm 1z95.dlg
+cd /home/kun/job/02_QUBO/2025_06_05/4_Ana/1_dock/1_map_score/1_prepare_gpf/map/1z9g
+./exe
+grep "Ligand PDBQT file =" 1z9g.dlg > num
+grep "epdb: USER    Estimated Free Energy of Binding    =" 1z9g.dlg > score
+rm 1z9g.dlg
+cd /home/kun/job/02_QUBO/2025_06_05/4_Ana/1_dock/1_map_score/1_prepare_gpf/map/2al5
+./exe
+grep "Ligand PDBQT file =" 2al5.dlg > num
+grep "epdb: USER    Estimated Free Energy of Binding    =" 2al5.dlg > score
+rm 2al5.dlg
+cd /home/kun/job/02_QUBO/2025_06_05/4_Ana/1_dock/1_map_score/1_prepare_gpf/map/2brb
+./exe
+grep "Ligand PDBQT file =" 2brb.dlg > num
+grep "epdb: USER    Estimated Free Energy of Binding    =" 2brb.dlg > score
+rm 2brb.dlg
+cd /home/kun/job/02_QUBO/2025_06_05/4_Ana/1_dock/1_map_score/1_prepare_gpf/map/2c3i
+./exe
+grep "Ligand PDBQT file =" 2c3i.dlg > num
+grep "epdb: USER    Estimated Free Energy of Binding    =" 2c3i.dlg > score
+rm 2c3i.dlg
+cd /home/kun/job/02_QUBO/2025_06_05/4_Ana/1_dock/1_map_score/1_prepare_gpf/map/2cbv
+./exe
+grep "Ligand PDBQT file =" 2cbv.dlg > num
+grep "epdb: USER    Estimated Free Energy of Binding    =" 2cbv.dlg > score
+rm 2cbv.dlg
+cd /home/kun/job/02_QUBO/2025_06_05/4_Ana/1_dock/1_map_score/1_prepare_gpf/map/2cet
+./exe
+grep "Ligand PDBQT file =" 2cet.dlg > num
+grep "epdb: USER    Estimated Free Energy of Binding    =" 2cet.dlg > score
+rm 2cet.dlg
+cd /home/kun/job/02_QUBO/2025_06_05/4_Ana/1_dock/1_map_score/1_prepare_gpf/map/2hb1
+./exe
+grep "Ligand PDBQT file =" 2hb1.dlg > num
+grep "epdb: USER    Estimated Free Energy of Binding    =" 2hb1.dlg > score
+rm 2hb1.dlg
+cd /home/kun/job/02_QUBO/2025_06_05/4_Ana/1_dock/1_map_score/1_prepare_gpf/map/2j78
+./exe
+grep "Ligand PDBQT file =" 2j78.dlg > num
+grep "epdb: USER    Estimated Free Energy of Binding    =" 2j78.dlg > score
+rm 2j78.dlg
+cd /home/kun/job/02_QUBO/2025_06_05/4_Ana/1_dock/1_map_score/1_prepare_gpf/map/2j7h
+./exe
+grep "Ligand PDBQT file =" 2j7h.dlg > num
+grep "epdb: USER    Estimated Free Energy of Binding    =" 2j7h.dlg > score
+rm 2j7h.dlg
+cd /home/kun/job/02_QUBO/2025_06_05/4_Ana/1_dock/1_map_score/1_prepare_gpf/map/2pog
+./exe
+grep "Ligand PDBQT file =" 2pog.dlg > num
+grep "epdb: USER    Estimated Free Energy of Binding    =" 2pog.dlg > score
+rm 2pog.dlg
+cd /home/kun/job/02_QUBO/2025_06_05/4_Ana/1_dock/1_map_score/1_prepare_gpf/map/2qbr
+./exe
+grep "Ligand PDBQT file =" 2qbr.dlg > num
+grep "epdb: USER    Estimated Free Energy of Binding    =" 2qbr.dlg > score
+rm 2qbr.dlg
+cd /home/kun/job/02_QUBO/2025_06_05/4_Ana/1_dock/1_map_score/1_prepare_gpf/map/2qe4
+./exe
+grep "Ligand PDBQT file =" 2qe4.dlg > num
+grep "epdb: USER    Estimated Free Energy of Binding    =" 2qe4.dlg > score
+rm 2qe4.dlg
+cd /home/kun/job/02_QUBO/2025_06_05/4_Ana/1_dock/1_map_score/1_prepare_gpf/map/2qnq
+./exe
+grep "Ligand PDBQT file =" 2qnq.dlg > num
+grep "epdb: USER    Estimated Free Energy of Binding    =" 2qnq.dlg > score
+rm 2qnq.dlg
+cd /home/kun/job/02_QUBO/2025_06_05/4_Ana/1_dock/1_map_score/1_prepare_gpf/map/2r9w
+./exe
+grep "Ligand PDBQT file =" 2r9w.dlg > num
+grep "epdb: USER    Estimated Free Energy of Binding    =" 2r9w.dlg > score
+rm 2r9w.dlg
+cd /home/kun/job/02_QUBO/2025_06_05/4_Ana/1_dock/1_map_score/1_prepare_gpf/map/2v00
+./exe
+grep "Ligand PDBQT file =" 2v00.dlg > num
+grep "epdb: USER    Estimated Free Energy of Binding    =" 2v00.dlg > score
+rm 2v00.dlg
+cd /home/kun/job/02_QUBO/2025_06_05/4_Ana/1_dock/1_map_score/1_prepare_gpf/map/2vvn
+./exe
+grep "Ligand PDBQT file =" 2vvn.dlg > num
+grep "epdb: USER    Estimated Free Energy of Binding    =" 2vvn.dlg > score
+rm 2vvn.dlg
+cd /home/kun/job/02_QUBO/2025_06_05/4_Ana/1_dock/1_map_score/1_prepare_gpf/map/2w4x
+./exe
+grep "Ligand PDBQT file =" 2w4x.dlg > num
+grep "epdb: USER    Estimated Free Energy of Binding    =" 2w4x.dlg > score
+rm 2w4x.dlg
+cd /home/kun/job/02_QUBO/2025_06_05/4_Ana/1_dock/1_map_score/1_prepare_gpf/map/2weg
+./exe
+grep "Ligand PDBQT file =" 2weg.dlg > num
+grep "epdb: USER    Estimated Free Energy of Binding    =" 2weg.dlg > score
+rm 2weg.dlg
+cd /home/kun/job/02_QUBO/2025_06_05/4_Ana/1_dock/1_map_score/1_prepare_gpf/map/2wnc
+./exe
+grep "Ligand PDBQT file =" 2wnc.dlg > num
+grep "epdb: USER    Estimated Free Energy of Binding    =" 2wnc.dlg > score
+rm 2wnc.dlg
+cd /home/kun/job/02_QUBO/2025_06_05/4_Ana/1_dock/1_map_score/1_prepare_gpf/map/2wvt
+./exe
+grep "Ligand PDBQT file =" 2wvt.dlg > num
+grep "epdb: USER    Estimated Free Energy of Binding    =" 2wvt.dlg > score
+rm 2wvt.dlg
+cd /home/kun/job/02_QUBO/2025_06_05/4_Ana/1_dock/1_map_score/1_prepare_gpf/map/2xb8
+./exe
+grep "Ligand PDBQT file =" 2xb8.dlg > num
+grep "epdb: USER    Estimated Free Energy of Binding    =" 2xb8.dlg > score
+rm 2xb8.dlg
+cd /home/kun/job/02_QUBO/2025_06_05/4_Ana/1_dock/1_map_score/1_prepare_gpf/map/2xdl
+./exe
+grep "Ligand PDBQT file =" 2xdl.dlg > num
+grep "epdb: USER    Estimated Free Energy of Binding    =" 2xdl.dlg > score
+rm 2xdl.dlg
+cd /home/kun/job/02_QUBO/2025_06_05/4_Ana/1_dock/1_map_score/1_prepare_gpf/map/2xj7
+./exe
+grep "Ligand PDBQT file =" 2xj7.dlg > num
+grep "epdb: USER    Estimated Free Energy of Binding    =" 2xj7.dlg > score
+rm 2xj7.dlg
+cd /home/kun/job/02_QUBO/2025_06_05/4_Ana/1_dock/1_map_score/1_prepare_gpf/map/2yfe
+./exe
+grep "Ligand PDBQT file =" 2yfe.dlg > num
+grep "epdb: USER    Estimated Free Energy of Binding    =" 2yfe.dlg > score
+rm 2yfe.dlg
+cd /home/kun/job/02_QUBO/2025_06_05/4_Ana/1_dock/1_map_score/1_prepare_gpf/map/2ymd
+./exe
+grep "Ligand PDBQT file =" 2ymd.dlg > num
+grep "epdb: USER    Estimated Free Energy of Binding    =" 2ymd.dlg > score
+rm 2ymd.dlg
+cd /home/kun/job/02_QUBO/2025_06_05/4_Ana/1_dock/1_map_score/1_prepare_gpf/map/2zda
+./exe
+grep "Ligand PDBQT file =" 2zda.dlg > num
+grep "epdb: USER    Estimated Free Energy of Binding    =" 2zda.dlg > score
+rm 2zda.dlg
+cd /home/kun/job/02_QUBO/2025_06_05/4_Ana/1_dock/1_map_score/1_prepare_gpf/map/3acw
+./exe
+grep "Ligand PDBQT file =" 3acw.dlg > num
+grep "epdb: USER    Estimated Free Energy of Binding    =" 3acw.dlg > score
+rm 3acw.dlg
+cd /home/kun/job/02_QUBO/2025_06_05/4_Ana/1_dock/1_map_score/1_prepare_gpf/map/3ao4
+./exe
+grep "Ligand PDBQT file =" 3ao4.dlg > num
+grep "epdb: USER    Estimated Free Energy of Binding    =" 3ao4.dlg > score
+rm 3ao4.dlg
+cd /home/kun/job/02_QUBO/2025_06_05/4_Ana/1_dock/1_map_score/1_prepare_gpf/map/3aru
+./exe
+grep "Ligand PDBQT file =" 3aru.dlg > num
+grep "epdb: USER    Estimated Free Energy of Binding    =" 3aru.dlg > score
+rm 3aru.dlg
+cd /home/kun/job/02_QUBO/2025_06_05/4_Ana/1_dock/1_map_score/1_prepare_gpf/map/3arv
+./exe
+grep "Ligand PDBQT file =" 3arv.dlg > num
+grep "epdb: USER    Estimated Free Energy of Binding    =" 3arv.dlg > score
+rm 3arv.dlg
+cd /home/kun/job/02_QUBO/2025_06_05/4_Ana/1_dock/1_map_score/1_prepare_gpf/map/3ary
+./exe
+grep "Ligand PDBQT file =" 3ary.dlg > num
+grep "epdb: USER    Estimated Free Energy of Binding    =" 3ary.dlg > score
+rm 3ary.dlg
+cd /home/kun/job/02_QUBO/2025_06_05/4_Ana/1_dock/1_map_score/1_prepare_gpf/map/3b27
+./exe
+grep "Ligand PDBQT file =" 3b27.dlg > num
+grep "epdb: USER    Estimated Free Energy of Binding    =" 3b27.dlg > score
+rm 3b27.dlg
+cd /home/kun/job/02_QUBO/2025_06_05/4_Ana/1_dock/1_map_score/1_prepare_gpf/map/3bgz
+./exe
+grep "Ligand PDBQT file =" 3bgz.dlg > num
+grep "epdb: USER    Estimated Free Energy of Binding    =" 3bgz.dlg > score
+rm 3bgz.dlg
+cd /home/kun/job/02_QUBO/2025_06_05/4_Ana/1_dock/1_map_score/1_prepare_gpf/map/3cj4
+./exe
+grep "Ligand PDBQT file =" 3cj4.dlg > num
+grep "epdb: USER    Estimated Free Energy of Binding    =" 3cj4.dlg > score
+rm 3cj4.dlg
+cd /home/kun/job/02_QUBO/2025_06_05/4_Ana/1_dock/1_map_score/1_prepare_gpf/map/3d4z
+./exe
+grep "Ligand PDBQT file =" 3d4z.dlg > num
+grep "epdb: USER    Estimated Free Energy of Binding    =" 3d4z.dlg > score
+rm 3d4z.dlg
+cd /home/kun/job/02_QUBO/2025_06_05/4_Ana/1_dock/1_map_score/1_prepare_gpf/map/3d6q
+./exe
+grep "Ligand PDBQT file =" 3d6q.dlg > num
+grep "epdb: USER    Estimated Free Energy of Binding    =" 3d6q.dlg > score
+rm 3d6q.dlg
+cd /home/kun/job/02_QUBO/2025_06_05/4_Ana/1_dock/1_map_score/1_prepare_gpf/map/3dd0
+./exe
+grep "Ligand PDBQT file =" 3dd0.dlg > num
+grep "epdb: USER    Estimated Free Energy of Binding    =" 3dd0.dlg > score
+rm 3dd0.dlg
+cd /home/kun/job/02_QUBO/2025_06_05/4_Ana/1_dock/1_map_score/1_prepare_gpf/map/3dx1
+./exe
+grep "Ligand PDBQT file =" 3dx1.dlg > num
+grep "epdb: USER    Estimated Free Energy of Binding    =" 3dx1.dlg > score
+rm 3dx1.dlg
+cd /home/kun/job/02_QUBO/2025_06_05/4_Ana/1_dock/1_map_score/1_prepare_gpf/map/3dx2
+./exe
+grep "Ligand PDBQT file =" 3dx2.dlg > num
+grep "epdb: USER    Estimated Free Energy of Binding    =" 3dx2.dlg > score
+rm 3dx2.dlg
+cd /home/kun/job/02_QUBO/2025_06_05/4_Ana/1_dock/1_map_score/1_prepare_gpf/map/3dxg
+./exe
+grep "Ligand PDBQT file =" 3dxg.dlg > num
+grep "epdb: USER    Estimated Free Energy of Binding    =" 3dxg.dlg > score
+rm 3dxg.dlg
+cd /home/kun/job/02_QUBO/2025_06_05/4_Ana/1_dock/1_map_score/1_prepare_gpf/map/3ebp
+./exe
+grep "Ligand PDBQT file =" 3ebp.dlg > num
+grep "epdb: USER    Estimated Free Energy of Binding    =" 3ebp.dlg > score
+rm 3ebp.dlg
+cd /home/kun/job/02_QUBO/2025_06_05/4_Ana/1_dock/1_map_score/1_prepare_gpf/map/3ehy
+./exe
+grep "Ligand PDBQT file =" 3ehy.dlg > num
+grep "epdb: USER    Estimated Free Energy of Binding    =" 3ehy.dlg > score
+rm 3ehy.dlg
+cd /home/kun/job/02_QUBO/2025_06_05/4_Ana/1_dock/1_map_score/1_prepare_gpf/map/3f3a
+./exe
+grep "Ligand PDBQT file =" 3f3a.dlg > num
+grep "epdb: USER    Estimated Free Energy of Binding    =" 3f3a.dlg > score
+rm 3f3a.dlg
+cd /home/kun/job/02_QUBO/2025_06_05/4_Ana/1_dock/1_map_score/1_prepare_gpf/map/3f3c
+./exe
+grep "Ligand PDBQT file =" 3f3c.dlg > num
+grep "epdb: USER    Estimated Free Energy of Binding    =" 3f3c.dlg > score
+rm 3f3c.dlg
+cd /home/kun/job/02_QUBO/2025_06_05/4_Ana/1_dock/1_map_score/1_prepare_gpf/map/3f3d
+./exe
+grep "Ligand PDBQT file =" 3f3d.dlg > num
+grep "epdb: USER    Estimated Free Energy of Binding    =" 3f3d.dlg > score
+rm 3f3d.dlg
+cd /home/kun/job/02_QUBO/2025_06_05/4_Ana/1_dock/1_map_score/1_prepare_gpf/map/3f3e
+./exe
+grep "Ligand PDBQT file =" 3f3e.dlg > num
+grep "epdb: USER    Estimated Free Energy of Binding    =" 3f3e.dlg > score
+rm 3f3e.dlg
+cd /home/kun/job/02_QUBO/2025_06_05/4_Ana/1_dock/1_map_score/1_prepare_gpf/map/3fcq
+./exe
+grep "Ligand PDBQT file =" 3fcq.dlg > num
+grep "epdb: USER    Estimated Free Energy of Binding    =" 3fcq.dlg > score
+rm 3fcq.dlg
+cd /home/kun/job/02_QUBO/2025_06_05/4_Ana/1_dock/1_map_score/1_prepare_gpf/map/3fur
+./exe
+grep "Ligand PDBQT file =" 3fur.dlg > num
+grep "epdb: USER    Estimated Free Energy of Binding    =" 3fur.dlg > score
+rm 3fur.dlg
+cd /home/kun/job/02_QUBO/2025_06_05/4_Ana/1_dock/1_map_score/1_prepare_gpf/map/3fv1
+./exe
+grep "Ligand PDBQT file =" 3fv1.dlg > num
+grep "epdb: USER    Estimated Free Energy of Binding    =" 3fv1.dlg > score
+rm 3fv1.dlg
+cd /home/kun/job/02_QUBO/2025_06_05/4_Ana/1_dock/1_map_score/1_prepare_gpf/map/3fv2
+./exe
+grep "Ligand PDBQT file =" 3fv2.dlg > num
+grep "epdb: USER    Estimated Free Energy of Binding    =" 3fv2.dlg > score
+rm 3fv2.dlg
+cd /home/kun/job/02_QUBO/2025_06_05/4_Ana/1_dock/1_map_score/1_prepare_gpf/map/3g0w
+./exe
+grep "Ligand PDBQT file =" 3g0w.dlg > num
+grep "epdb: USER    Estimated Free Energy of Binding    =" 3g0w.dlg > score
+rm 3g0w.dlg
+cd /home/kun/job/02_QUBO/2025_06_05/4_Ana/1_dock/1_map_score/1_prepare_gpf/map/3g2n
+./exe
+grep "Ligand PDBQT file =" 3g2n.dlg > num
+grep "epdb: USER    Estimated Free Energy of Binding    =" 3g2n.dlg > score
+rm 3g2n.dlg
+cd /home/kun/job/02_QUBO/2025_06_05/4_Ana/1_dock/1_map_score/1_prepare_gpf/map/3g2z
+./exe
+grep "Ligand PDBQT file =" 3g2z.dlg > num
+grep "epdb: USER    Estimated Free Energy of Binding    =" 3g2z.dlg > score
+rm 3g2z.dlg
+cd /home/kun/job/02_QUBO/2025_06_05/4_Ana/1_dock/1_map_score/1_prepare_gpf/map/3g31
+./exe
+grep "Ligand PDBQT file =" 3g31.dlg > num
+grep "epdb: USER    Estimated Free Energy of Binding    =" 3g31.dlg > score
+rm 3g31.dlg
+cd /home/kun/job/02_QUBO/2025_06_05/4_Ana/1_dock/1_map_score/1_prepare_gpf/map/3gbb
+./exe
+grep "Ligand PDBQT file =" 3gbb.dlg > num
+grep "epdb: USER    Estimated Free Energy of Binding    =" 3gbb.dlg > score
+rm 3gbb.dlg
+cd /home/kun/job/02_QUBO/2025_06_05/4_Ana/1_dock/1_map_score/1_prepare_gpf/map/3gc5
+./exe
+grep "Ligand PDBQT file =" 3gc5.dlg > num
+grep "epdb: USER    Estimated Free Energy of Binding    =" 3gc5.dlg > score
+rm 3gc5.dlg
+cd /home/kun/job/02_QUBO/2025_06_05/4_Ana/1_dock/1_map_score/1_prepare_gpf/map/3ge7
+./exe
+grep "Ligand PDBQT file =" 3ge7.dlg > num
+grep "epdb: USER    Estimated Free Energy of Binding    =" 3ge7.dlg > score
+rm 3ge7.dlg
+cd /home/kun/job/02_QUBO/2025_06_05/4_Ana/1_dock/1_map_score/1_prepare_gpf/map/3gr2
+./exe
+grep "Ligand PDBQT file =" 3gr2.dlg > num
+grep "epdb: USER    Estimated Free Energy of Binding    =" 3gr2.dlg > score
+rm 3gr2.dlg
+cd /home/kun/job/02_QUBO/2025_06_05/4_Ana/1_dock/1_map_score/1_prepare_gpf/map/3gv9
+./exe
+grep "Ligand PDBQT file =" 3gv9.dlg > num
+grep "epdb: USER    Estimated Free Energy of Binding    =" 3gv9.dlg > score
+rm 3gv9.dlg
+cd /home/kun/job/02_QUBO/2025_06_05/4_Ana/1_dock/1_map_score/1_prepare_gpf/map/3gy4
+./exe
+grep "Ligand PDBQT file =" 3gy4.dlg > num
+grep "epdb: USER    Estimated Free Energy of Binding    =" 3gy4.dlg > score
+rm 3gy4.dlg
+cd /home/kun/job/02_QUBO/2025_06_05/4_Ana/1_dock/1_map_score/1_prepare_gpf/map/3jvr
+./exe
+grep "Ligand PDBQT file =" 3jvr.dlg > num
+grep "epdb: USER    Estimated Free Energy of Binding    =" 3jvr.dlg > score
+rm 3jvr.dlg
+cd /home/kun/job/02_QUBO/2025_06_05/4_Ana/1_dock/1_map_score/1_prepare_gpf/map/3jvs
+./exe
+grep "Ligand PDBQT file =" 3jvs.dlg > num
+grep "epdb: USER    Estimated Free Energy of Binding    =" 3jvs.dlg > score
+rm 3jvs.dlg
+cd /home/kun/job/02_QUBO/2025_06_05/4_Ana/1_dock/1_map_score/1_prepare_gpf/map/3jya
+./exe
+grep "Ligand PDBQT file =" 3jya.dlg > num
+grep "epdb: USER    Estimated Free Energy of Binding    =" 3jya.dlg > score
+rm 3jya.dlg
+cd /home/kun/job/02_QUBO/2025_06_05/4_Ana/1_dock/1_map_score/1_prepare_gpf/map/3kgp
+./exe
+grep "Ligand PDBQT file =" 3kgp.dlg > num
+grep "epdb: USER    Estimated Free Energy of Binding    =" 3kgp.dlg > score
+rm 3kgp.dlg
+cd /home/kun/job/02_QUBO/2025_06_05/4_Ana/1_dock/1_map_score/1_prepare_gpf/map/3kr8
+./exe
+grep "Ligand PDBQT file =" 3kr8.dlg > num
+grep "epdb: USER    Estimated Free Energy of Binding    =" 3kr8.dlg > score
+rm 3kr8.dlg
+cd /home/kun/job/02_QUBO/2025_06_05/4_Ana/1_dock/1_map_score/1_prepare_gpf/map/3kwa
+./exe
+grep "Ligand PDBQT file =" 3kwa.dlg > num
+grep "epdb: USER    Estimated Free Energy of Binding    =" 3kwa.dlg > score
+rm 3kwa.dlg
+cd /home/kun/job/02_QUBO/2025_06_05/4_Ana/1_dock/1_map_score/1_prepare_gpf/map/3l7b
+./exe
+grep "Ligand PDBQT file =" 3l7b.dlg > num
+grep "epdb: USER    Estimated Free Energy of Binding    =" 3l7b.dlg > score
+rm 3l7b.dlg
+cd /home/kun/job/02_QUBO/2025_06_05/4_Ana/1_dock/1_map_score/1_prepare_gpf/map/3lka
+./exe
+grep "Ligand PDBQT file =" 3lka.dlg > num
+grep "epdb: USER    Estimated Free Energy of Binding    =" 3lka.dlg > score
+rm 3lka.dlg
+cd /home/kun/job/02_QUBO/2025_06_05/4_Ana/1_dock/1_map_score/1_prepare_gpf/map/3n76
+./exe
+grep "Ligand PDBQT file =" 3n76.dlg > num
+grep "epdb: USER    Estimated Free Energy of Binding    =" 3n76.dlg > score
+rm 3n76.dlg
+cd /home/kun/job/02_QUBO/2025_06_05/4_Ana/1_dock/1_map_score/1_prepare_gpf/map/3n7a
+./exe
+grep "Ligand PDBQT file =" 3n7a.dlg > num
+grep "epdb: USER    Estimated Free Energy of Binding    =" 3n7a.dlg > score
+rm 3n7a.dlg
+cd /home/kun/job/02_QUBO/2025_06_05/4_Ana/1_dock/1_map_score/1_prepare_gpf/map/3nq9
+./exe
+grep "Ligand PDBQT file =" 3nq9.dlg > num
+grep "epdb: USER    Estimated Free Energy of Binding    =" 3nq9.dlg > score
+rm 3nq9.dlg
+cd /home/kun/job/02_QUBO/2025_06_05/4_Ana/1_dock/1_map_score/1_prepare_gpf/map/3nx7
+./exe
+grep "Ligand PDBQT file =" 3nx7.dlg > num
+grep "epdb: USER    Estimated Free Energy of Binding    =" 3nx7.dlg > score
+rm 3nx7.dlg
+cd /home/kun/job/02_QUBO/2025_06_05/4_Ana/1_dock/1_map_score/1_prepare_gpf/map/3p5o
+./exe
+grep "Ligand PDBQT file =" 3p5o.dlg > num
+grep "epdb: USER    Estimated Free Energy of Binding    =" 3p5o.dlg > score
+rm 3p5o.dlg
+cd /home/kun/job/02_QUBO/2025_06_05/4_Ana/1_dock/1_map_score/1_prepare_gpf/map/3pxf
+./exe
+grep "Ligand PDBQT file =" 3pxf.dlg > num
+grep "epdb: USER    Estimated Free Energy of Binding    =" 3pxf.dlg > score
+rm 3pxf.dlg
+cd /home/kun/job/02_QUBO/2025_06_05/4_Ana/1_dock/1_map_score/1_prepare_gpf/map/3pyy
+./exe
+grep "Ligand PDBQT file =" 3pyy.dlg > num
+grep "epdb: USER    Estimated Free Energy of Binding    =" 3pyy.dlg > score
+rm 3pyy.dlg
+cd /home/kun/job/02_QUBO/2025_06_05/4_Ana/1_dock/1_map_score/1_prepare_gpf/map/3qqs
+./exe
+grep "Ligand PDBQT file =" 3qqs.dlg > num
+grep "epdb: USER    Estimated Free Energy of Binding    =" 3qqs.dlg > score
+rm 3qqs.dlg
+cd /home/kun/job/02_QUBO/2025_06_05/4_Ana/1_dock/1_map_score/1_prepare_gpf/map/3r88
+./exe
+grep "Ligand PDBQT file =" 3r88.dlg > num
+grep "epdb: USER    Estimated Free Energy of Binding    =" 3r88.dlg > score
+rm 3r88.dlg
+cd /home/kun/job/02_QUBO/2025_06_05/4_Ana/1_dock/1_map_score/1_prepare_gpf/map/3rlr
+./exe
+grep "Ligand PDBQT file =" 3rlr.dlg > num
+grep "epdb: USER    Estimated Free Energy of Binding    =" 3rlr.dlg > score
+rm 3rlr.dlg
+cd /home/kun/job/02_QUBO/2025_06_05/4_Ana/1_dock/1_map_score/1_prepare_gpf/map/3rr4
+./exe
+grep "Ligand PDBQT file =" 3rr4.dlg > num
+grep "epdb: USER    Estimated Free Energy of Binding    =" 3rr4.dlg > score
+rm 3rr4.dlg
+cd /home/kun/job/02_QUBO/2025_06_05/4_Ana/1_dock/1_map_score/1_prepare_gpf/map/3rsx
+./exe
+grep "Ligand PDBQT file =" 3rsx.dlg > num
+grep "epdb: USER    Estimated Free Energy of Binding    =" 3rsx.dlg > score
+rm 3rsx.dlg
+cd /home/kun/job/02_QUBO/2025_06_05/4_Ana/1_dock/1_map_score/1_prepare_gpf/map/3ryj
+./exe
+grep "Ligand PDBQT file =" 3ryj.dlg > num
+grep "epdb: USER    Estimated Free Energy of Binding    =" 3ryj.dlg > score
+rm 3ryj.dlg
+cd /home/kun/job/02_QUBO/2025_06_05/4_Ana/1_dock/1_map_score/1_prepare_gpf/map/3syr
+./exe
+grep "Ligand PDBQT file =" 3syr.dlg > num
+grep "epdb: USER    Estimated Free Energy of Binding    =" 3syr.dlg > score
+rm 3syr.dlg
+cd /home/kun/job/02_QUBO/2025_06_05/4_Ana/1_dock/1_map_score/1_prepare_gpf/map/3twp
+./exe
+grep "Ligand PDBQT file =" 3twp.dlg > num
+grep "epdb: USER    Estimated Free Energy of Binding    =" 3twp.dlg > score
+rm 3twp.dlg
+cd /home/kun/job/02_QUBO/2025_06_05/4_Ana/1_dock/1_map_score/1_prepare_gpf/map/3u5j
+./exe
+grep "Ligand PDBQT file =" 3u5j.dlg > num
+grep "epdb: USER    Estimated Free Energy of Binding    =" 3u5j.dlg > score
+rm 3u5j.dlg
+cd /home/kun/job/02_QUBO/2025_06_05/4_Ana/1_dock/1_map_score/1_prepare_gpf/map/3u9q
+./exe
+grep "Ligand PDBQT file =" 3u9q.dlg > num
+grep "epdb: USER    Estimated Free Energy of Binding    =" 3u9q.dlg > score
+rm 3u9q.dlg
+cd /home/kun/job/02_QUBO/2025_06_05/4_Ana/1_dock/1_map_score/1_prepare_gpf/map/3udh
+./exe
+grep "Ligand PDBQT file =" 3udh.dlg > num
+grep "epdb: USER    Estimated Free Energy of Binding    =" 3udh.dlg > score
+rm 3udh.dlg
+cd /home/kun/job/02_QUBO/2025_06_05/4_Ana/1_dock/1_map_score/1_prepare_gpf/map/3ui7
+./exe
+grep "Ligand PDBQT file =" 3ui7.dlg > num
+grep "epdb: USER    Estimated Free Energy of Binding    =" 3ui7.dlg > score
+rm 3ui7.dlg
+cd /home/kun/job/02_QUBO/2025_06_05/4_Ana/1_dock/1_map_score/1_prepare_gpf/map/3uo4
+./exe
+grep "Ligand PDBQT file =" 3uo4.dlg > num
+grep "epdb: USER    Estimated Free Energy of Binding    =" 3uo4.dlg > score
+rm 3uo4.dlg
+cd /home/kun/job/02_QUBO/2025_06_05/4_Ana/1_dock/1_map_score/1_prepare_gpf/map/3up2
+./exe
+grep "Ligand PDBQT file =" 3up2.dlg > num
+grep "epdb: USER    Estimated Free Energy of Binding    =" 3up2.dlg > score
+rm 3up2.dlg
+cd /home/kun/job/02_QUBO/2025_06_05/4_Ana/1_dock/1_map_score/1_prepare_gpf/map/3uuo
+./exe
+grep "Ligand PDBQT file =" 3uuo.dlg > num
+grep "epdb: USER    Estimated Free Energy of Binding    =" 3uuo.dlg > score
+rm 3uuo.dlg
+cd /home/kun/job/02_QUBO/2025_06_05/4_Ana/1_dock/1_map_score/1_prepare_gpf/map/3wtj
+./exe
+grep "Ligand PDBQT file =" 3wtj.dlg > num
+grep "epdb: USER    Estimated Free Energy of Binding    =" 3wtj.dlg > score
+rm 3wtj.dlg
+cd /home/kun/job/02_QUBO/2025_06_05/4_Ana/1_dock/1_map_score/1_prepare_gpf/map/3zdg
+./exe
+grep "Ligand PDBQT file =" 3zdg.dlg > num
+grep "epdb: USER    Estimated Free Energy of Binding    =" 3zdg.dlg > score
+rm 3zdg.dlg
+cd /home/kun/job/02_QUBO/2025_06_05/4_Ana/1_dock/1_map_score/1_prepare_gpf/map/3zsx
+./exe
+grep "Ligand PDBQT file =" 3zsx.dlg > num
+grep "epdb: USER    Estimated Free Energy of Binding    =" 3zsx.dlg > score
+rm 3zsx.dlg
+cd /home/kun/job/02_QUBO/2025_06_05/4_Ana/1_dock/1_map_score/1_prepare_gpf/map/3zt2
+./exe
+grep "Ligand PDBQT file =" 3zt2.dlg > num
+grep "epdb: USER    Estimated Free Energy of Binding    =" 3zt2.dlg > score
+rm 3zt2.dlg
+cd /home/kun/job/02_QUBO/2025_06_05/4_Ana/1_dock/1_map_score/1_prepare_gpf/map/4abg
+./exe
+grep "Ligand PDBQT file =" 4abg.dlg > num
+grep "epdb: USER    Estimated Free Energy of Binding    =" 4abg.dlg > score
+rm 4abg.dlg
+cd /home/kun/job/02_QUBO/2025_06_05/4_Ana/1_dock/1_map_score/1_prepare_gpf/map/4bkt
+./exe
+grep "Ligand PDBQT file =" 4bkt.dlg > num
+grep "epdb: USER    Estimated Free Energy of Binding    =" 4bkt.dlg > score
+rm 4bkt.dlg
+cd /home/kun/job/02_QUBO/2025_06_05/4_Ana/1_dock/1_map_score/1_prepare_gpf/map/4cig
+./exe
+grep "Ligand PDBQT file =" 4cig.dlg > num
+grep "epdb: USER    Estimated Free Energy of Binding    =" 4cig.dlg > score
+rm 4cig.dlg
+cd /home/kun/job/02_QUBO/2025_06_05/4_Ana/1_dock/1_map_score/1_prepare_gpf/map/4ciw
+./exe
+grep "Ligand PDBQT file =" 4ciw.dlg > num
+grep "epdb: USER    Estimated Free Energy of Binding    =" 4ciw.dlg > score
+rm 4ciw.dlg
+cd /home/kun/job/02_QUBO/2025_06_05/4_Ana/1_dock/1_map_score/1_prepare_gpf/map/4cr9
+./exe
+grep "Ligand PDBQT file =" 4cr9.dlg > num
+grep "epdb: USER    Estimated Free Energy of Binding    =" 4cr9.dlg > score
+rm 4cr9.dlg
+cd /home/kun/job/02_QUBO/2025_06_05/4_Ana/1_dock/1_map_score/1_prepare_gpf/map/4ddh
+./exe
+grep "Ligand PDBQT file =" 4ddh.dlg > num
+grep "epdb: USER    Estimated Free Energy of Binding    =" 4ddh.dlg > score
+rm 4ddh.dlg
+cd /home/kun/job/02_QUBO/2025_06_05/4_Ana/1_dock/1_map_score/1_prepare_gpf/map/4ddk
+./exe
+grep "Ligand PDBQT file =" 4ddk.dlg > num
+grep "epdb: USER    Estimated Free Energy of Binding    =" 4ddk.dlg > score
+rm 4ddk.dlg
+cd /home/kun/job/02_QUBO/2025_06_05/4_Ana/1_dock/1_map_score/1_prepare_gpf/map/4de1
+./exe
+grep "Ligand PDBQT file =" 4de1.dlg > num
+grep "epdb: USER    Estimated Free Energy of Binding    =" 4de1.dlg > score
+rm 4de1.dlg
+cd /home/kun/job/02_QUBO/2025_06_05/4_Ana/1_dock/1_map_score/1_prepare_gpf/map/4djv
+./exe
+grep "Ligand PDBQT file =" 4djv.dlg > num
+grep "epdb: USER    Estimated Free Energy of Binding    =" 4djv.dlg > score
+rm 4djv.dlg
+cd /home/kun/job/02_QUBO/2025_06_05/4_Ana/1_dock/1_map_score/1_prepare_gpf/map/4dld
+./exe
+grep "Ligand PDBQT file =" 4dld.dlg > num
+grep "epdb: USER    Estimated Free Energy of Binding    =" 4dld.dlg > score
+rm 4dld.dlg
+cd /home/kun/job/02_QUBO/2025_06_05/4_Ana/1_dock/1_map_score/1_prepare_gpf/map/4dli
+./exe
+grep "Ligand PDBQT file =" 4dli.dlg > num
+grep "epdb: USER    Estimated Free Energy of Binding    =" 4dli.dlg > score
+rm 4dli.dlg
+cd /home/kun/job/02_QUBO/2025_06_05/4_Ana/1_dock/1_map_score/1_prepare_gpf/map/4e6q
+./exe
+grep "Ligand PDBQT file =" 4e6q.dlg > num
+grep "epdb: USER    Estimated Free Energy of Binding    =" 4e6q.dlg > score
+rm 4e6q.dlg
+cd /home/kun/job/02_QUBO/2025_06_05/4_Ana/1_dock/1_map_score/1_prepare_gpf/map/4eo8
+./exe
+grep "Ligand PDBQT file =" 4eo8.dlg > num
+grep "epdb: USER    Estimated Free Energy of Binding    =" 4eo8.dlg > score
+rm 4eo8.dlg
+cd /home/kun/job/02_QUBO/2025_06_05/4_Ana/1_dock/1_map_score/1_prepare_gpf/map/4eor
+./exe
+grep "Ligand PDBQT file =" 4eor.dlg > num
+grep "epdb: USER    Estimated Free Energy of Binding    =" 4eor.dlg > score
+rm 4eor.dlg
+cd /home/kun/job/02_QUBO/2025_06_05/4_Ana/1_dock/1_map_score/1_prepare_gpf/map/4f09
+./exe
+grep "Ligand PDBQT file =" 4f09.dlg > num
+grep "epdb: USER    Estimated Free Energy of Binding    =" 4f09.dlg > score
+rm 4f09.dlg
+cd /home/kun/job/02_QUBO/2025_06_05/4_Ana/1_dock/1_map_score/1_prepare_gpf/map/4f2w
+./exe
+grep "Ligand PDBQT file =" 4f2w.dlg > num
+grep "epdb: USER    Estimated Free Energy of Binding    =" 4f2w.dlg > score
+rm 4f2w.dlg
+cd /home/kun/job/02_QUBO/2025_06_05/4_Ana/1_dock/1_map_score/1_prepare_gpf/map/4f9w
+./exe
+grep "Ligand PDBQT file =" 4f9w.dlg > num
+grep "epdb: USER    Estimated Free Energy of Binding    =" 4f9w.dlg > score
+rm 4f9w.dlg
+cd /home/kun/job/02_QUBO/2025_06_05/4_Ana/1_dock/1_map_score/1_prepare_gpf/map/4gfm
+./exe
+grep "Ligand PDBQT file =" 4gfm.dlg > num
+grep "epdb: USER    Estimated Free Energy of Binding    =" 4gfm.dlg > score
+rm 4gfm.dlg
+cd /home/kun/job/02_QUBO/2025_06_05/4_Ana/1_dock/1_map_score/1_prepare_gpf/map/4gkm
+./exe
+grep "Ligand PDBQT file =" 4gkm.dlg > num
+grep "epdb: USER    Estimated Free Energy of Binding    =" 4gkm.dlg > score
+rm 4gkm.dlg
+cd /home/kun/job/02_QUBO/2025_06_05/4_Ana/1_dock/1_map_score/1_prepare_gpf/map/4hge
+./exe
+grep "Ligand PDBQT file =" 4hge.dlg > num
+grep "epdb: USER    Estimated Free Energy of Binding    =" 4hge.dlg > score
+rm 4hge.dlg
+cd /home/kun/job/02_QUBO/2025_06_05/4_Ana/1_dock/1_map_score/1_prepare_gpf/map/4ih5
+./exe
+grep "Ligand PDBQT file =" 4ih5.dlg > num
+grep "epdb: USER    Estimated Free Energy of Binding    =" 4ih5.dlg > score
+rm 4ih5.dlg
+cd /home/kun/job/02_QUBO/2025_06_05/4_Ana/1_dock/1_map_score/1_prepare_gpf/map/4ih7
+./exe
+grep "Ligand PDBQT file =" 4ih7.dlg > num
+grep "epdb: USER    Estimated Free Energy of Binding    =" 4ih7.dlg > score
+rm 4ih7.dlg
+cd /home/kun/job/02_QUBO/2025_06_05/4_Ana/1_dock/1_map_score/1_prepare_gpf/map/4ivb
+./exe
+grep "Ligand PDBQT file =" 4ivb.dlg > num
+grep "epdb: USER    Estimated Free Energy of Binding    =" 4ivb.dlg > score
+rm 4ivb.dlg
+cd /home/kun/job/02_QUBO/2025_06_05/4_Ana/1_dock/1_map_score/1_prepare_gpf/map/4ivc
+./exe
+grep "Ligand PDBQT file =" 4ivc.dlg > num
+grep "epdb: USER    Estimated Free Energy of Binding    =" 4ivc.dlg > score
+rm 4ivc.dlg
+cd /home/kun/job/02_QUBO/2025_06_05/4_Ana/1_dock/1_map_score/1_prepare_gpf/map/4ivd
+./exe
+grep "Ligand PDBQT file =" 4ivd.dlg > num
+grep "epdb: USER    Estimated Free Energy of Binding    =" 4ivd.dlg > score
+rm 4ivd.dlg
+cd /home/kun/job/02_QUBO/2025_06_05/4_Ana/1_dock/1_map_score/1_prepare_gpf/map/4j21
+./exe
+grep "Ligand PDBQT file =" 4j21.dlg > num
+grep "epdb: USER    Estimated Free Energy of Binding    =" 4j21.dlg > score
+rm 4j21.dlg
+cd /home/kun/job/02_QUBO/2025_06_05/4_Ana/1_dock/1_map_score/1_prepare_gpf/map/4j28
+./exe
+grep "Ligand PDBQT file =" 4j28.dlg > num
+grep "epdb: USER    Estimated Free Energy of Binding    =" 4j28.dlg > score
+rm 4j28.dlg
+cd /home/kun/job/02_QUBO/2025_06_05/4_Ana/1_dock/1_map_score/1_prepare_gpf/map/4jfs
+./exe
+grep "Ligand PDBQT file =" 4jfs.dlg > num
+grep "epdb: USER    Estimated Free Energy of Binding    =" 4jfs.dlg > score
+rm 4jfs.dlg
+cd /home/kun/job/02_QUBO/2025_06_05/4_Ana/1_dock/1_map_score/1_prepare_gpf/map/4jsz
+./exe
+grep "Ligand PDBQT file =" 4jsz.dlg > num
+grep "epdb: USER    Estimated Free Energy of Binding    =" 4jsz.dlg > score
+rm 4jsz.dlg
+cd /home/kun/job/02_QUBO/2025_06_05/4_Ana/1_dock/1_map_score/1_prepare_gpf/map/4jxs
+./exe
+grep "Ligand PDBQT file =" 4jxs.dlg > num
+grep "epdb: USER    Estimated Free Energy of Binding    =" 4jxs.dlg > score
+rm 4jxs.dlg
+cd /home/kun/job/02_QUBO/2025_06_05/4_Ana/1_dock/1_map_score/1_prepare_gpf/map/4k18
+./exe
+grep "Ligand PDBQT file =" 4k18.dlg > num
+grep "epdb: USER    Estimated Free Energy of Binding    =" 4k18.dlg > score
+rm 4k18.dlg
+cd /home/kun/job/02_QUBO/2025_06_05/4_Ana/1_dock/1_map_score/1_prepare_gpf/map/4k77
+./exe
+grep "Ligand PDBQT file =" 4k77.dlg > num
+grep "epdb: USER    Estimated Free Energy of Binding    =" 4k77.dlg > score
+rm 4k77.dlg
+cd /home/kun/job/02_QUBO/2025_06_05/4_Ana/1_dock/1_map_score/1_prepare_gpf/map/4kz6
+./exe
+grep "Ligand PDBQT file =" 4kz6.dlg > num
+grep "epdb: USER    Estimated Free Energy of Binding    =" 4kz6.dlg > score
+rm 4kz6.dlg
+cd /home/kun/job/02_QUBO/2025_06_05/4_Ana/1_dock/1_map_score/1_prepare_gpf/map/4kzq
+./exe
+grep "Ligand PDBQT file =" 4kzq.dlg > num
+grep "epdb: USER    Estimated Free Energy of Binding    =" 4kzq.dlg > score
+rm 4kzq.dlg
+cd /home/kun/job/02_QUBO/2025_06_05/4_Ana/1_dock/1_map_score/1_prepare_gpf/map/4kzu
+./exe
+grep "Ligand PDBQT file =" 4kzu.dlg > num
+grep "epdb: USER    Estimated Free Energy of Binding    =" 4kzu.dlg > score
+rm 4kzu.dlg
+cd /home/kun/job/02_QUBO/2025_06_05/4_Ana/1_dock/1_map_score/1_prepare_gpf/map/4llx
+./exe
+grep "Ligand PDBQT file =" 4llx.dlg > num
+grep "epdb: USER    Estimated Free Energy of Binding    =" 4llx.dlg > score
+rm 4llx.dlg
+cd /home/kun/job/02_QUBO/2025_06_05/4_Ana/1_dock/1_map_score/1_prepare_gpf/map/4lzs
+./exe
+grep "Ligand PDBQT file =" 4lzs.dlg > num
+grep "epdb: USER    Estimated Free Energy of Binding    =" 4lzs.dlg > score
+rm 4lzs.dlg
+cd /home/kun/job/02_QUBO/2025_06_05/4_Ana/1_dock/1_map_score/1_prepare_gpf/map/4m0y
+./exe
+grep "Ligand PDBQT file =" 4m0y.dlg > num
+grep "epdb: USER    Estimated Free Energy of Binding    =" 4m0y.dlg > score
+rm 4m0y.dlg
+cd /home/kun/job/02_QUBO/2025_06_05/4_Ana/1_dock/1_map_score/1_prepare_gpf/map/4m0z
+./exe
+grep "Ligand PDBQT file =" 4m0z.dlg > num
+grep "epdb: USER    Estimated Free Energy of Binding    =" 4m0z.dlg > score
+rm 4m0z.dlg
+cd /home/kun/job/02_QUBO/2025_06_05/4_Ana/1_dock/1_map_score/1_prepare_gpf/map/4mgd
+./exe
+grep "Ligand PDBQT file =" 4mgd.dlg > num
+grep "epdb: USER    Estimated Free Energy of Binding    =" 4mgd.dlg > score
+rm 4mgd.dlg
+cd /home/kun/job/02_QUBO/2025_06_05/4_Ana/1_dock/1_map_score/1_prepare_gpf/map/4mme
+./exe
+grep "Ligand PDBQT file =" 4mme.dlg > num
+grep "epdb: USER    Estimated Free Energy of Binding    =" 4mme.dlg > score
+rm 4mme.dlg
+cd /home/kun/job/02_QUBO/2025_06_05/4_Ana/1_dock/1_map_score/1_prepare_gpf/map/4ogj
+./exe
+grep "Ligand PDBQT file =" 4ogj.dlg > num
+grep "epdb: USER    Estimated Free Energy of Binding    =" 4ogj.dlg > score
+rm 4ogj.dlg
+cd /home/kun/job/02_QUBO/2025_06_05/4_Ana/1_dock/1_map_score/1_prepare_gpf/map/4owm
+./exe
+grep "Ligand PDBQT file =" 4owm.dlg > num
+grep "epdb: USER    Estimated Free Energy of Binding    =" 4owm.dlg > score
+rm 4owm.dlg
+cd /home/kun/job/02_QUBO/2025_06_05/4_Ana/1_dock/1_map_score/1_prepare_gpf/map/4pcs
+./exe
+grep "Ligand PDBQT file =" 4pcs.dlg > num
+grep "epdb: USER    Estimated Free Energy of Binding    =" 4pcs.dlg > score
+rm 4pcs.dlg
+cd /home/kun/job/02_QUBO/2025_06_05/4_Ana/1_dock/1_map_score/1_prepare_gpf/map/4qac
+./exe
+grep "Ligand PDBQT file =" 4qac.dlg > num
+grep "epdb: USER    Estimated Free Energy of Binding    =" 4qac.dlg > score
+rm 4qac.dlg
+cd /home/kun/job/02_QUBO/2025_06_05/4_Ana/1_dock/1_map_score/1_prepare_gpf/map/4u4s
+./exe
+grep "Ligand PDBQT file =" 4u4s.dlg > num
+grep "epdb: USER    Estimated Free Energy of Binding    =" 4u4s.dlg > score
+rm 4u4s.dlg
+cd /home/kun/job/02_QUBO/2025_06_05/4_Ana/1_dock/1_map_score/1_prepare_gpf/map/4wiv
+./exe
+grep "Ligand PDBQT file =" 4wiv.dlg > num
+grep "epdb: USER    Estimated Free Energy of Binding    =" 4wiv.dlg > score
+rm 4wiv.dlg
+cd /home/kun/job/02_QUBO/2025_06_05/4_Ana/1_dock/1_map_score/1_prepare_gpf/map/5c28
+./exe
+grep "Ligand PDBQT file =" 5c28.dlg > num
+grep "epdb: USER    Estimated Free Energy of Binding    =" 5c28.dlg > score
+rm 5c28.dlg
+cd /home/kun/job/02_QUBO/2025_06_05/4_Ana/1_dock/1_map_score/1_prepare_gpf/map/5dwr
+./exe
+grep "Ligand PDBQT file =" 5dwr.dlg > num
+grep "epdb: USER    Estimated Free Energy of Binding    =" 5dwr.dlg > score
+rm 5dwr.dlg

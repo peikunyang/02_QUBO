@@ -1,0 +1,3 @@
+rm -r crd/*
+python3 x_crd.py
+
