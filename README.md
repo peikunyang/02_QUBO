@@ -1,10 +1,7 @@
-## This repository provides a QUBO-based framework for generating ligand binding poses within protein pockets to support structure-based virtual screening.
+## Ligand Pose Generation via QUBO-Based Hotspot Sampling and Geometric Triplet Matching
 
 ## Author
-
-> **Reference:**  
 > **Pei-Kun Yang**  
-> *Ligand Pose Generation via QUBO-Based Hotspot Sampling and Geometric Triplet Matching*  
 > E-mail: [peikun@isu.edu.tw](mailto:peikun@isu.edu.tw)  
 > ORCID: [https://orcid.org/0000-0003-1840-6204](https://orcid.org/0000-0003-1840-6204)
 
