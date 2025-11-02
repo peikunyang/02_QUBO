@@ -1,4 +1,4 @@
-## Ligand Pose Generation via QUBO-Based Hotspot Sampling and Geometric Triplet Matching
+## Scalable Ligand Pose Generation via QUBO-Based Hotspot Sampling in Structure-Based Virtual Screening
 
 ## Author
 > **Pei-Kun Yang**  
